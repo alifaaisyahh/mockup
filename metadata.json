@@ -1,0 +1,7 @@
+{
+  "name": "Satpol PP Kubu Raya Official Website",
+  "description": "Official website for Satpol PP Kabupaten Kubu Raya, featuring news, services, and public information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
